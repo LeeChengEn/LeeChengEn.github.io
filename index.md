@@ -6,8 +6,10 @@ Use this markdown file to write the contents of your webpage. Below is an outlin
 
 ## Overview
 
+
 Introduce the project:
 - Roughly describe what the user must do in your project.
+Two users can play the game at the same time.One player press keyboard's up(jump up),down(pounce),left(go left),right(go right)button, the other player press W(jump up),S(pounce),A(go left),D(go right).There is a ball, it can bounce, users need to move the charater to hit the ball, and let the ball fall in the opponent's area.(It's similar to the rules of the volleyball.)
 - What is the goal? How to achieve it?
 - Why is it interesting? 
 - Make people want to read more about your project!
