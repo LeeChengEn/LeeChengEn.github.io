@@ -20,19 +20,19 @@
 
 ### States
 
-1. Wait For Serve
+Wait For Serve
 
-![](_waitforserve.jpg)
-
-
-2. Play
-
-![](_play.jpg)
+![](waitforserve.jpg)
 
 
-3. Wait For Jump
+Play
 
-![](_waitforjump.jpg)
+![](play.jpg)
+
+
+Wait For Jump
+
+![](waitforjump.jpg)
 
 
 
